@@ -1,6 +1,6 @@
 # Weather4U
 
-Weather4U is a command-line application that provides current weather, weather history, 5-day weather forecast, and allows users to manage their favorite locations. The application uses the OpenWeatherMap API to fetch weather data and supports temperature units in both Celsius and Fahrenheit.
+Weather4U is a command-line application that provides current weather, weather history, 5-day weather forecast, and allows users to manage their favorite locations. The application uses the **OpenWeatherMap API*** to fetch weather data and supports temperature units in both Celsius and Fahrenheit.
 
 ## Features
 
