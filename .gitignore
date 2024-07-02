@@ -15,7 +15,7 @@ __pycache__/
 .ipynb_checkpoints/
 
 # Environment variables
-api.env
+.env
 
 # VSCode settings
 .vscode/
