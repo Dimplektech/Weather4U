@@ -18,7 +18,7 @@ Weather4U is a command-line application that provides current weather, weather h
 
 ## Setup
    1. Clone the repository or download the project files.
-   2. Ensure you have Python 3.x installed on your machine.
+   2. Ensure you have Python 3.6+ installed on your machine.
    3. ### Create a Virtual Environment
 
       It is recommended to use a virtual environment to manage dependencies. You can create one using the following commands:
