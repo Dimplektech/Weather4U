@@ -1,6 +1,9 @@
 import requests
+from dotenv import load_dotenv
+import os
 
-API_KEY = "b3df37c2831edc1eb315e526cc84f7ca"
+load_dotenv()
+API_KEY = os.getenv('API_KEY')
 
 payload = {
     'q': "London",

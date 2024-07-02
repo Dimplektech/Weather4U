@@ -1,8 +1,11 @@
 import requests
 import json
 from datetime import datetime
+from dotenv import load_dotenv
+import os
 
-API_KEY = "b3df37c2831edc1eb315e526cc84f7ca"
+load_dotenv()
+API_KEY = os.getenv('API_KEY')
 
 MENU = """Weather4U
 Please select an opton below:
