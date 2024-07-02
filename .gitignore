@@ -1,0 +1,21 @@
+# Virtual environment
+my_venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# macOS specific files
+.DS_Store
+
+# PyCharm project files
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# VSCode settings
+.vscode/
